@@ -14,7 +14,7 @@
 
 - `呈现效果.gif`是对作业演示截的动图。
 
-运行前，安装所需库
+本项目使用的环境是python3.7.5，运行前，安装所需库
 
 ```python
 !pip install -r requirements.txt
