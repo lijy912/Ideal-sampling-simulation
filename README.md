@@ -108,8 +108,7 @@
     plt.tight_layout()
     plt.show()
     ```
-
-    ![img](p1.png)
+![img](p1.png)
 
 7. 加入动画，用滑块控制抽样周期和频率的变换
 
@@ -172,5 +171,4 @@
 
     plt.show()
     ```
-
-    ![gif](呈现效果.gif)
+![gif](呈现效果.gif)
